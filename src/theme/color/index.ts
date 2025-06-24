@@ -1,0 +1,9 @@
+export const colors = {
+  WHITE_COLOR: '#FFFFFF',
+  WHITE_LILAC: '#F1F4FA',
+  WHITE_SMOKE: '#F1F4FA',
+  GREY_TEXT: '#555',
+  BLACK_COLOR: '#000000', 
+  BLUE_COLOR: '#007AFF', 
+  RED: '#FF0000'
+};
